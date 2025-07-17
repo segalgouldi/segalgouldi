@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @segalgouldi
 - 👀 I’m interested in Lucid dreaming technology, neutrinos, and imagination
-- 🌱 I’m currently learning arduino things, meditation practices, & IT 
+- 🌱 I’m currently learning neutrino oscillation analysis tools, meditation practices, & phyics!
 - 💞️ I’m looking to collaborate on anything fun and useful
 
 <!---
